@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">Yin Yoke Shan</string>
+    <string name="my_profile_pic">Profile Picture</string>
+    <string name="my_profile_desc">
+        \nEducation:
+        \n\tSJK(C) Kuo Kuang, Skudai
+        \n
+        \n\tSMK Skudai
+        \n
+        \n\tTAR UC
+        \n
+        \n\tWorking Experience:
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n\tSkudai Parade
+        \n
+        \n
+        \n
+        \n
+        \n\tSutera Mall
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n\tKuala Lumpur
+    </string>
+</resources>
